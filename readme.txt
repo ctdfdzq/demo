@@ -6,3 +6,4 @@ Creating a new branch is quick.
 2222
 2626232
 Creating a branch is quick and simple.
+merge 合并Ban with fast forword
