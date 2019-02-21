@@ -5,4 +5,4 @@ Git is free software.
 Creating a new branch is quick.
 2222
 2626232
-Creating a new branch is quick & simple.
+Creating a branch is quick and simple.
